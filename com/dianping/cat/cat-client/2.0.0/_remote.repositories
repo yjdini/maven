@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 16 15:43:00 CST 2019
+cat-client-2.0.0.jar>=
+cat-client-2.0.0.pom>=
+cat-client-2.0.0-sources.jar>=
